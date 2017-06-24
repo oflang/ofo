@@ -1,2 +1,12 @@
-# ofo
-A clearer and simpler Python
+# of
+
+整数
+浮点数
+字符
+布尔量
+
+结构体
+列表
+
+文件
+设备
